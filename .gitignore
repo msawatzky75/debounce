@@ -5,3 +5,4 @@
 !.yarn/plugins/
 !.yarn/versions/
 !.yarn/sdks/
+node_modules/

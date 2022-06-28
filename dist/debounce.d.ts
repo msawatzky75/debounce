@@ -19,4 +19,4 @@ interface Debounced<F extends (...args: any) => any> {
  */
 export declare function debounce<A extends (...args: any) => any>(func: A, wait?: number, immediate?: boolean): Debounced<A>;
 export default debounce;
-//# sourceMappingURL=index.d.ts.map
+//# sourceMappingURL=debounce.d.ts.map

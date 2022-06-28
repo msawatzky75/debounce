@@ -15,5 +15,5 @@
 		"types": ["node"],
 		"lib": ["esnext", "DOM"]
 	},
-	"files": ["index.ts"]
+	"files": ["debounce.ts"]
 }

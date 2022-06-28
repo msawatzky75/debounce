@@ -14,7 +14,7 @@ export default defineConfig({
 		},
 		outDir: "./dist",
 		lib: {
-			entry: "./index.ts",
+			entry: "./debounce.ts",
 			formats: ["cjs", "umd", "es"],
 			name: "debounce",
 		},
